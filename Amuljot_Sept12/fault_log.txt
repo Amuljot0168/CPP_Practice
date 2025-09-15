@@ -1,0 +1,6 @@
+Sensor Id: 101 Fault Detected: Value = 145 Threshold = 90
+Sensor Id: 102 Fault Detected: Value = 75 Threshold = 50
+Sensor Id: 103 Fault Detected: Value = 90 Threshold = 40
+Sensor Id: 101 Fault Detected: Value = 145 Threshold = 85
+Sensor Id: 102 Fault Detected: Value = 75 Threshold = 40
+Sensor Id: 103 Fault Detected: Value = 90 Threshold = 40
